@@ -1,0 +1,4 @@
+#Task 2 Display “Hi how are you?” as an output using print()
+
+
+print("Hi how are you")
